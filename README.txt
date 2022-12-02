@@ -4,8 +4,18 @@ What is iPdfWriter.Abstractions?
 
 iPdfWriter.Abstractions contains interfaces and generic classes for create iPdfWriter writer extensions.
 
-Changes in this version (v1.0.0)
+Changes in this version (v1.0.1)
 ================================
+
+· Changed
+  -------
+
+  - Add package icon to project file
+
+  - Minor changes
+
+v1.0.0
+======
 
 · Added
   -----
