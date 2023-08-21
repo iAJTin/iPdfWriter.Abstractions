@@ -14,6 +14,8 @@ Changes in this version (v1.0.1)
 
   - Minor changes
 
+  - Multiple Repository is used.
+
 v1.0.0
 ======
 

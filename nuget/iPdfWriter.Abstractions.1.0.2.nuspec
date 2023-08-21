@@ -2,18 +2,18 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
 	<metadata>
 		<id>iPdfWriter.Abstractions</id>
-		<version>1.0.1</version>
+		<version>1.0.2</version>
 		<title>iPdfWriter.Abstractions</title>
 		<authors>iAJTin</authors>
 		<owners>iAJTin</owners>
     <readme>.\README.md</readme>
-		<license type="expression">AGPL-3.0-only</license>
+		<license type="expression">MIT</license>
 		<projectUrl>https://github.com/iAJTin/iPdfWriter.Abstractions</projectUrl>
 		<icon>.\iPdfWriter.Abstractions.png</icon>
 		<iconUrl>https://raw.githubusercontent.com/iAJTin/iPdfWriter.Abstractions/master/nuget/iPdfWriter.Abstractions.png</iconUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<description>iPdfWriter.Abstractions contains interfaces and generic classes for create iPdfWriter writer extensions</description>
-		<copyright>Copyright © 2022 iAJTin</copyright>
+		<copyright>Copyright © 2023 iAJTin</copyright>
 		<tags>PDF Writer Adobe iTin</tags>
 		<repository type="git" url="https://github.com/iAJTin/iPdfWriter.Abstractions"/>
 	</metadata>

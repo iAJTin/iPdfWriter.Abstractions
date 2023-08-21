@@ -1,10 +1,9 @@
 ﻿
-namespace iPdfWriter.Abstractions.Writer.Config
+namespace iPdfWriter.Abstractions.Writer.Config;
+
+/// <summary>
+/// Represents a generic writer configurations
+/// </summary>
+public interface IWriterConfig
 {
-    /// <summary>
-    /// Represents a generic writer configurations
-    /// </summary>
-    public interface IWriterConfig
-    {
-    }
 }
